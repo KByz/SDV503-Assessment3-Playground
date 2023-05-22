@@ -1,0 +1,23 @@
+{
+  "name": "sdv503-assessment3-playground",
+  "version": "1.0.0",
+  "description": "Practice and testing playground for assessment 3 of SDV503",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KByz/SDV503-Assessment3-Playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KByz/SDV503-Assessment3-Playground/issues"
+  },
+  "homepage": "https://github.com/KByz/SDV503-Assessment3-Playground#readme",
+  "dependencies": {
+    "node": "^20.2.0"
+  }
+}
